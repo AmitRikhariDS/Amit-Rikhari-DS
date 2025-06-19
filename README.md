@@ -33,4 +33,5 @@
 <!-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-rikhari&show_icons=true&locale=en" alt="amit-rikhari" /></p>
 -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmitRikhariDS&" alt="AmitRikhariDS" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmitRikhariDS&" alt="AmitRikhariDS" /></p>
+ -->
