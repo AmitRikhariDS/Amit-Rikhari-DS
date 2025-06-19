@@ -1,6 +1,6 @@
 [![MasterHead](https://www.uat.edu/media/data-science-banner.png)](https://github.com/Amit-Rikhari)
-<h1 align="center">Hi 👋, I'm Amit Rikhari</h1>
-<h3 align="center">A Tech enthusiast with 3+ years in Network, Linux, and DevOps. Currently pursuing MSC in Data Science to dive deeper into data-driven insights and innovation. I specialize in crafting robust VOIP network solutions, navigating Linux landscapes, and streamlining DevOps workflows, now I am working on mastering Data science concepts. On GitHub, I share my coding experiments and tech explorations.</h3>
+<h1 align="center">Hi 👋, I am Amit Rikhari</h1>
+<h3 align="center">A tech enthusiast with 3+ years of experience across Network Engineering, Linux systems, Data Science, and DevOps. Currently pursuing an M.Sc. in Data Science to deepen my expertise in data-driven insights and AI innovation. I specialize in building robust VoIP network solutions, navigating complex Linux environments, and optimizing DevOps workflows. I am now focused on mastering data science and machine learning, and I actively share my coding projects and explorations on GitHub..</h3>
 <br>
 
 <img align="right" alt="coding" width=300 src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
